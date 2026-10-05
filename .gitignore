@@ -1,0 +1,10 @@
+dist/
+.build/
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+*.dmg
+*.app/
+*.xcuserstate
+.env*
