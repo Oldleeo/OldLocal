@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oldleeo.github.io/OldLocal/sitemap.xml
